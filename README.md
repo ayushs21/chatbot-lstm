@@ -1,2 +1,2 @@
 # chatbot-lstm
-CHATBOT using LSTM algorith.
+CHATBOT using LSTM algorithm.
